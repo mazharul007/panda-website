@@ -1,0 +1,30 @@
+.cs-bg-color{
+    background-color:#FEEAE9 ;
+    border-radius: 10px;
+}
+
+.buy-btn{
+    /* background-color: linear-gradient(to bottom,deeppink,deeppink); */
+    background-color: deeppink;
+    border-radius: 2px  deeppink;
+    color: white;
+    cursor: pointer;
+    padding: 9px 25px;
+
+
+}
+.carousel-item{
+    padding: 20px 40px;
+    
+}
+.container{
+   margin-bottom: 40px;
+}
+p{
+    color:grey;
+    text-align: justify;
+}
+.price{
+    color: hotpink;
+
+}
